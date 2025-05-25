@@ -1,4 +1,4 @@
-🛒 Walmart Virtual Experience Program – README
+# Walmart Virtual Experience Program – README
 📌 Overview
 This repository documents my participation in the Walmart Global Tech Virtual Experience Program offered by Forage. The program simulates a real-world tech internship at Walmart, allowing participants to develop practical skills in data handling, analytics, and software development within a retail context.
 
